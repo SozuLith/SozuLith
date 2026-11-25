@@ -1,4 +1,4 @@
-## あなたは誰のもの
+# あなたは誰のもの
 
 <div align="center">
   <img src="./assets/bannerblue.gif" width="100%">
