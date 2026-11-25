@@ -1,8 +1,8 @@
 ## あなたは誰のもの
 
-<p align="center">
-  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.film.ru/articles/klassika-anime-istinnaya-grust&ved=2ahUKEwidm5PR2aOYAxVU0QIHHYhSMLsQjRx6BAgLEBc&opi=89978449&usg=AOvVaw0QJutRpLVvDV3YnTWpbWBV" width="100%">
-</p>
+<div align="center">
+  <img src="./assets/bannerblue.gif" width="100%">
+</div>
 <!--
 **SozuLith/SozuLith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
