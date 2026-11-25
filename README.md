@@ -31,5 +31,14 @@
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SozuLith&bg_color=0d1117&color=8ab4f8&line=456a9e&point=b6d4fe&area=true&area_color=14263d&hide_border=true&hide_title=true" alt="Activity Graph">
 </div>
 <!-- FOOTER -->
-<p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
-<p align="center">静寂の中に美しさがある。<br><sub>There is beauty in silence.</sub></p>
+
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="">
+</div>
+
+<div align="center">
+  <img src="./assets/footer.svg" width="100%"
+       alt="静寂の中に美しさがある。 — There is beauty in silence.">
+</div>
+
+<!-- END -->
