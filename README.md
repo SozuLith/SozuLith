@@ -1,8 +1,9 @@
-# あなたは誰のもの
-
 <div align="center">
   <img src="./assets/bannerblue.gif" width="100%">
 </div>
+# あなたは誰のもの
+
+
 <!--
 **SozuLith/SozuLith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
