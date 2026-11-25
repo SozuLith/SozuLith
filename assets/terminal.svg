@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="224" viewBox="0 0 680 224" role="img" aria-labelledby="title desc">
+  <title id="title">SozuLith — About me</title>
+  <desc id="desc">Software development student. Python, basic C, currently learning Go for backend development.</desc>
+  <rect x="1" y="1" width="678" height="222" rx="12" fill="#0b121e" stroke="#29405b"/>
+  <path d="M13 1H667Q679 1 679 13V36H1V13Q1 1 13 1Z" fill="#121f30"/>
+  <path d="M2 36H678" stroke="#25384f"/>
+  <circle cx="19" cy="18" r="4.5" fill="#36567b"/><circle cx="34" cy="18" r="4.5" fill="#5277a4"/><circle cx="49" cy="18" r="4.5" fill="#8ab4f8"/>
+  <text x="340" y="23" text-anchor="middle" fill="#8da5c2" font-size="12" font-family="monospace">sozulith@github — terminal</text>
+  <g font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15">
+    <text x="22" y="63" fill="#8ab4f8">sozulith@github:~$ <tspan fill="#d4e1f2">whoami</tspan></text>
+    <g fill="#8ab4f8">
+      <text x="37" y="94">alias</text><text x="37" y="115">role</text><text x="37" y="136">focus</text><text x="37" y="157">learning</text><text x="37" y="178">languages</text>
+      <text x="137" y="94">:</text><text x="137" y="115">:</text><text x="137" y="136">:</text><text x="137" y="157">:</text><text x="137" y="178">:</text>
+    </g>
+    <g fill="#d4e1f2"><text x="155" y="94">SozuLith</text><text x="155" y="115">Software development student</text><text x="155" y="136">Backend development</text><text x="155" y="157">Go</text><text x="155" y="178">Python, C (basics)</text></g>
+    <text x="22" y="207" fill="#8ab4f8">sozulith@github:~$</text><rect x="195" y="194" width="8" height="15" rx="1" fill="#8ab4f8"/>
+  </g>
+</svg>
