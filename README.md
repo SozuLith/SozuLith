@@ -1,7 +1,7 @@
 <!-- BANNER -->
 <p align="center">
   <img src="./assets/bannerblue.gif" width="100%" alt="SozuLith banner"></p>
-<h3 align="center">あなたは誰のもの</h3>
+<h3 align="center">あなたは誰のも</h3>
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=26&amp;duration=3000&amp;pause=1500&amp;color=79A9E3&amp;center=true&amp;vCenter=true&amp;width=540&amp;height=40&amp;lines=S+O+Z+U+L+I+T+H;Beyond+the+syntax." alt="SozuLith — Beyond the syntax"></p>
 <!-- ABOUT -->
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
