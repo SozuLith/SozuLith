@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="800" height="150"
+     viewBox="0 0 800 150">
+
+  <!-- JAPANESE -->
+  <text x="400" y="48"
+        text-anchor="middle"
+        font-family="Noto Sans CJK JP, Hiragino Sans, sans-serif"
+        font-size="22"
+        letter-spacing="2"
+        fill="#C4D8F5">
+    静寂の中に美しさがある。
+  </text>
+
+  <!-- ENGLISH -->
+  <text x="400" y="94"
+        text-anchor="middle"
+        font-family="JetBrains Mono, Consolas, monospace"
+        font-size="15"
+        letter-spacing="1"
+        fill="#7999C2">
+    — There is beauty in silence. —
+  </text>
+
+</svg>
