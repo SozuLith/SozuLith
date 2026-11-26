@@ -7,7 +7,7 @@
 <!-- JAPANESE TITLE -->
 
 <p align="center">
-  <strong>あなたは誰のもの</strong>
+  <img src="./assets/title-ja.svg" width="100%" alt="あなたは誰のもの">
 </p>
 
 <!-- ANIMATED TITLE -->
