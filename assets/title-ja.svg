@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="800" height="64"
+     viewBox="0 0 800 64">
+
+  <text x="400" y="34"
+        text-anchor="middle"
+        font-family="Hiragino Sans, Noto Sans CJK JP, Yu Gothic, sans-serif"
+        font-size="20"
+        letter-spacing="1.6"
+        fill="#9BBBE3"
+        opacity="0.9">
+    あなたは誰のもの
+  </text>
+
+</svg>
